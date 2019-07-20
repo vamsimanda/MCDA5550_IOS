@@ -1,0 +1,15 @@
+Team Members
+
+Vamsi Manda - A00433234
+Chaitanya Varma Mudundi - A00432282
+
+
+Assignment Description:
+
+This is a Simple IOS application which consists the below:
+
+Game view controller:
+   UI Elements - Label, Button, Textbox
+   
+Functionality:
+   One MCQ question is asked with 4 options. When any option is selected, result is displayed in textbox.
